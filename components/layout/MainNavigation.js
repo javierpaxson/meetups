@@ -4,7 +4,7 @@ import classes from "./MainNavigation.module.css";
 function MainNavigation() {
   return (
     <header className={classes.header}>
-      <div className={classes.logo}>React Meetups v2.0</div>
+      <div className={classes.logo}>React Meetups v3.0</div>
       <nav>
         <ul>
           <li>
